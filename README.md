@@ -4,7 +4,4 @@
 
 В файле config.py необходимо указать путь к папке. У меня через wsl выход на внешнюю директорию
 
-```python
-python report.py
-
-<img width="558" height="1237" alt="image" src="https://github.com/user-attachments/assets/95c5bde0-6a8f-4d60-bb50-99cdb35af2f3" />
+<img width="558" height="1237" alt="image" src="https://github.com/user-attachments/assets/aee237b6-a722-4ba3-b14a-8d8c9305b713" />
